@@ -7,16 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<ul>
-		<li>학원에서 만든 index 파일</li>
-		<li>첫번째 수정</li>
-		<li>파일수정:kosmo</li>
-		<li>
-			<%
-				DTO dto = new DTO("홍길동");
-				out.println(dto.getName());
-			%>
-		</li>
-	</ul>
+	<h2>두번째 index 파일입니다.</h2>
 </body>
 </html>
